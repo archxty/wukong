@@ -54,3 +54,12 @@ EN LINUX
 
 
 
+
+
+
+
+
+
+
+
+bash install.sh
